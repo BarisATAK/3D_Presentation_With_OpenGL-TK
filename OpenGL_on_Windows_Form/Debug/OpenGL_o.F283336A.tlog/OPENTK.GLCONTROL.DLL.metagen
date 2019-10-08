@@ -1,0 +1,44 @@
+ImageRuntimeVersion: v2.0.50727
+Assembly OpenTK.GLControl, Version=1.1.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4: 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly OpenTK, Version=1.1.0.0, Culture=neutral, PublicKeyToken=bad199fe84eb3df4: 
+	hash=None, flags=None
+Assembly System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Class OpenTK.GLControl: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.UserControl
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(OpenTK.Graphics.GraphicsMode): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(OpenTK.Graphics.GraphicsMode, Int32, Int32, OpenTK.Graphics.GraphicsContextFlags): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Properties:
+    Boolean IsIdle 'get ' : 
+    OpenTK.Graphics.IGraphicsContext Context 'get set' : 
+    Single AspectRatio 'get ' : 
+    Boolean VSync 'get set' : 
+    OpenTK.Graphics.GraphicsMode GraphicsMode 'get ' : 
+    OpenTK.Platform.IWindowInfo WindowInfo 'get ' : 
+  Methods:
+    PerformContextUpdate(): PrivateScope, Public, HideBySig
+    SwapBuffers(): PrivateScope, Public, HideBySig
+    MakeCurrent(): PrivateScope, Public, HideBySig
+    get_IsIdle(): PrivateScope, Public, HideBySig, SpecialName
+    get_Context(): PrivateScope, Public, HideBySig, SpecialName
+    get_AspectRatio(): PrivateScope, Public, HideBySig, SpecialName
+    get_VSync(): PrivateScope, Public, HideBySig, SpecialName
+    set_VSync(Boolean): PrivateScope, Public, HideBySig, SpecialName
+    get_GraphicsMode(): PrivateScope, Public, HideBySig, SpecialName
+    get_WindowInfo(): PrivateScope, Public, HideBySig, SpecialName
+    GrabScreenshot(): PrivateScope, Public, HideBySig (Obsolete)
+Class OpenTK.GLControl+DelayUpdate: AutoLayout, AnsiClass, Class, NestedPublic, Sealed
+  :System.MulticastDelegate
+    Void .ctor(System.Object, IntPtr): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Invoke(): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    BeginInvoke(AsyncCallback, Object): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask
+    EndInvoke(IAsyncResult): PrivateScope, Public, Virtual, HideBySig, VtableLayoutMask

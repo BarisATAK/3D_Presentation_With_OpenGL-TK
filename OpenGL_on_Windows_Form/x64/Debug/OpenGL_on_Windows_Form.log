@@ -1,0 +1,66 @@
+﻿  WindowsForm.cpp
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(131): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(152): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(153): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(155): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(156): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(158): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(159): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(161): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(162): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(164): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(165): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(204): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(206): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(208): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(211): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(213): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(215): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(233): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(234): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(235): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(242): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(243): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(244): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(251): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(252): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(253): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(276): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(277): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(280): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(281): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\opengl.h(293): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\gaussian.h(46): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\gaussian.h(47): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\gaussian.h(48): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1136): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1177): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1178): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1185): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1186): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1195): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1196): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1200): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1201): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1296): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1300): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1304): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1308): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1312): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1316): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1321): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1325): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1329): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1333): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1337): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1341): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1347): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1444): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1235): warning C4700: uninitialized local variable 'o_GL' used
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1243): warning C4700: uninitialized local variable 'o_GL' used
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1251): warning C4700: uninitialized local variable 'o_GL' used
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1270): warning C4700: uninitialized local variable 'o_GL' used
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1279): warning C4700: uninitialized local variable 'o_GL' used
+c:\users\atakb\desktop\image processing intern\imageprocessinginternproject\opengl_on_windows_form\windowsform.h(1287): warning C4700: uninitialized local variable 'o_GL' used
+  WindowsForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  OpenGL_on_Windows_Form.vcxproj -> C:\Users\atakb\Desktop\Image Processing Intern\ImageProcessingInternProject\x64\Debug\OpenGL_on_Windows_Form.exe
